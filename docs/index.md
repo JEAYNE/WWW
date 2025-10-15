@@ -1,5 +1,7 @@
 # index.md
 
+version 2
+
 - [page](page.md)
 - [rep/page](rep/page.md)
 - [/rep/page](/rep/page.md)
@@ -29,3 +31,4 @@ int main(){
 ![local /image](/img/carousel.png)
 
 ![local image](img/carousel.png)
+
