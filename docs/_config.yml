@@ -1,0 +1,8 @@
+# https://github.com/jekyll/minima
+remote_theme: jekyll/minima
+
+plugins:
+  - jekyll-remote-theme
+
+minima:
+  skin: auto # dark/light switch with user's system settings.
